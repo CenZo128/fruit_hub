@@ -1,0 +1,44 @@
+{
+    "names" : [
+        {
+          "boys": "Vincent",
+          "girls": "Emily"
+        },
+        {
+          "boys": "Vincent",
+          "girls": "Yujin"
+        },
+        {
+          "boys": "Vincent",
+          "girls": "Lilly"
+        },
+        {
+          "boys": "Vincent",
+          "girls": "Jennie"
+        },
+        {
+          "boys": "Ari D. Putra",
+          "girls": "Yenni"
+        }
+      ],
+    "duration": [
+        {
+            "dating" : 1,
+            "hobby" : [
+                "makan","minum","refreshing"
+            ]
+        },
+        {
+            "dating" : 2,
+            "hobby" : [
+                "janjimanis","pura2sayang"
+            ]
+        },
+        {
+            "dating" : 5,
+            "hobby" : [
+                "mintajatah","ommariom","lollypop"
+            ]
+        }
+    ]
+}
