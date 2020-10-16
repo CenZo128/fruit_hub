@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
+import Card from './components/Card/Card';
 import Banner from './components/Banner/Banner';
+import Navbar from './components/Navbar/Navbar';
 import axios from 'axios';
 import './App.css';
 
@@ -19,12 +21,14 @@ function App() {
 
   return (
     <div className="App">
+      <Navbar></Navbar>
+      <Banner></Banner>
       <h1>Hello Bro</h1>
       {
         names && names.map(name => {
-          const { boys, girls } = name
+          // const { boys, girls } = name
           return (
-            <Banner names={{ girls, boys }} ></Banner>
+            <Card name={name}></Card>
           )
         })
       }
