@@ -32,6 +32,14 @@ function App() {
           )
         })
       }
+      {
+        names && names.map(name => {
+          // const { boys, girls } = name
+          return (
+            <Card name={name}></Card>
+          )
+        })
+      }
 
     </div>
   );
