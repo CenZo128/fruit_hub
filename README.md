@@ -28,7 +28,7 @@
 
 ### API Documentation
 
-```javascript
+```
 
 200 - OK                      > Call API success
 201 - CREATED                 > Post success
