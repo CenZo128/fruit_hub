@@ -1,5 +1,30 @@
-# fruit_hub
+# FRUIT HUB
 
-## API DOCUMENTATION
+## Tech Stack
 
-## Server
+:pencil2: Front End :
+    - React
+        - React-Redux
+    - Material
+        - core
+        - icons
+    - Redux
+        - thunk
+
+:pencil: Back End :
+
+    - Node
+    
+    - Express
+
+    - Mongo
+        - mongoose
+        - mongo atlas
+
+## Heroku
+
+## Firebase
+
+### API Documentation
+
+==============================
